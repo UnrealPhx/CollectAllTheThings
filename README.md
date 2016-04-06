@@ -2,6 +2,8 @@
 
 Extension to the TopDown BP example for teaching basic blueprint skills.
 
+![CollectMoreThings](https://raw.githubusercontent.com/UnrealPhx/CollectAllTheThings/master/Notes/2%20-%20Advanced%20BP/Collect%20More%20Things.png)
+
 --
 Come out and join [UnrealPhx](http://unrealphx.com) in Phoenix AZ the first Wednesday of every month for more of everything [Unreal](https://www.unrealengine.com).
 
