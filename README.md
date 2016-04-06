@@ -1,4 +1,4 @@
-# CollectAllTheThings
+# Collect All The Things
 
 Extension to the TopDown BP example for teaching basic blueprint skills.
 
